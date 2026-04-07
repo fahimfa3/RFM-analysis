@@ -50,7 +50,7 @@ inferred from purchasing behavior rather than predefined categories.
 - Mid-value customers present the strongest opportunity for growth, where targeted incentives or personalized marketing could increase purchase frequency and customer lifetime value.
 
 ## Tools Used
-- Python (Pandas, NumPy)
+- Python (Pandas)
 - SQLite
 - Data Visualization (Matplotlib / Seaborn)
 - Jupyter Notebook
