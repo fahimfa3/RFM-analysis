@@ -46,7 +46,7 @@ inferred from purchasing behavior rather than predefined categories.
 
 ## Dashboard
 Interactive dashboard visualizing customer segments, revenue distribution, and RFM scores:
-[View on Tableau Public] (https://public.tableau.com/views/CustomerSegmentationRFMAnalysis_17780987366860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[View on Tableau Public]([url](https://public.tableau.com/views/CustomerSegmentationRFMAnalysis_17780987366860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))] 
 
 ## Business Implications
 - Revenue is highly concentrated among a relatively small group of high-value customers, suggesting that retention and targeted engagement of this segment should be prioritized.
@@ -62,4 +62,4 @@ Interactive dashboard visualizing customer segments, revenue distribution, and R
 
 ## Author
 Farishtay Fahim
-[LinkedIn] (www.linkedin.com/in/farishtayfahim)
+[[LinkedIn] (www.linkedin.com/in/farishtayfahim)]
