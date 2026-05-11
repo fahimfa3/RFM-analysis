@@ -44,6 +44,10 @@ inferred from purchasing behavior rather than predefined categories.
 - Mid-value customers demonstrate moderate engagement (avg. 64 days since last purchase, 2.85 orders) and represent the strongest opportunity for conversion into high-value customers.
 - Revenue and purchase frequency are heavily right-skewed, consistent with the presence of high-frequency or wholesale buyers driving a disproportionate share of total revenue.
 
+## Dashboard
+Interactive dashboard visualizing customer segments, revenue distribution, and RFM scores:
+[View on Tableau Public] (https://public.tableau.com/views/CustomerSegmentationRFMAnalysis_17780987366860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Business Implications
 - Revenue is highly concentrated among a relatively small group of high-value customers, suggesting that retention and targeted engagement of this segment should be prioritized.
 - Given the nature of the business (occasion-based purchases), low-value customer behavior may reflect one-time buying patterns, limiting the effectiveness of traditional retention strategies.
@@ -54,6 +58,7 @@ inferred from purchasing behavior rather than predefined categories.
 - SQLite
 - Data Visualization (Matplotlib / Seaborn)
 - Jupyter Notebook
+- Tableau
 
 ## Author
 Farishtay Fahim
